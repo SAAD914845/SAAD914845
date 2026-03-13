@@ -1,40 +1,11 @@
-## Hi there 👋
+Bonjour ! 👋
 
-I'm Saad, a Junior Full-Stack Web Developer passionate about building modern web applications and learning new technologies.
+Je m'appelle Saad, développeur Web Full-Stack Junior passionné par la création d’applications web modernes et performantes. Je m’intéresse particulièrement au développement d’applications complètes, du front-end au back-end, et j’aime apprendre continuellement de nouvelles technologies afin d’améliorer mes compétences techniques et ma capacité à résoudre des problèmes informatiques.
 
-I enjoy turning ideas into real projects and constantly improving my programming and problem-solving skills.
+Je travaille avec plusieurs langages de programmation tels que Java, Python, C, PHP et SQL, ainsi qu’avec les technologies du web comme HTML, CSS et JavaScript, qui me permettent de concevoir et développer des applications web dynamiques et interactives.
 
-If I have an idea for a project, I like to experiment, build it, and share it.
+J’utilise également différents outils et technologies de développement dans mes projets, notamment Git et GitHub pour la gestion de versions, MySQL pour la gestion de bases de données, Laravel comme framework PHP pour le développement back-end, React pour la création d’interfaces web modernes, ainsi que XAMPP / Apache pour l’environnement de développement local et Visual Studio Code comme éditeur de code.
 
+Vous pouvez consulter mon parcours et mon profil professionnel sur LinkedIn .
 
-My main programming languages and technologies include:
-
-Java
-Python
-C
-PHP
-SQL
-HTML / CSS / JavaScript
-
-I also work with tools and technologies such as:
-
-Git & GitHub
-MySQL
-Laravel (PHP Framework)
-XAMPP / Apache
-VS Code
-
-<!--
-**SAAD914845/SAAD914845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn : www.linkedin.com/in/saad-el-mesoudy-305242383
